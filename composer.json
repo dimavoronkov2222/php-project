@@ -1,0 +1,7 @@
+{
+    "name": "admin/php-project",
+    "description": "My PHP Project",
+    "require": {
+        "illuminate/database": "^11.23"
+    }
+}
